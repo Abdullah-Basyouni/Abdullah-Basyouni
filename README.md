@@ -97,7 +97,7 @@ class AbdullahBasyouni:
 
     def __init__(self):
 
-        self.role = "Aspiring AI Engineer"
+        self.role = "AI Engineer"
 
         self.languages = [
             "Python",
