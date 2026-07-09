@@ -1,14 +1,15 @@
+````md
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
 
-# Hi 👋 I'm Abdullah Basyouni
+# Hi 👋, I'm Abdullah Basyouni
 
-### 🤖 AI Engineer | Machine Learning | Deep Learning
+### 🤖 Aspiring AI Engineer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
 </div>
 
@@ -16,11 +17,11 @@
 
 # 🚀 About Me
 
-🎓 Faculty of Computers & Artificial Intelligence - Cairo University
+🎓 Faculty of Computers & Artificial Intelligence — Cairo University
 
-🤖 Passionate about Artificial Intelligence and solving real-world problems using Machine Learning.
+🤖 Passionate about Artificial Intelligence, Machine Learning and Deep Learning.
 
-📚 Currently learning
+📚 Currently studying and exploring:
 
 - Machine Learning
 - Deep Learning
@@ -29,12 +30,13 @@
 - Generative AI
 - Retrieval-Augmented Generation (RAG)
 - AI Engineering
+- AI Agents
 
-💡 Interested in building intelligent systems powered by modern AI.
+💡 I enjoy learning new AI technologies, building intelligent systems, and continuously improving my skills.
 
 ---
 
-# 🧠 AI & Data Science
+# 🧠 AI & Data Science Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
@@ -62,28 +64,30 @@
 
 ---
 
-# 🛠️ Tools
+# 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=flat&logo=gnu-bash)
 
 ---
 
-# 📚 Currently Exploring
+# 📖 Currently Learning
 
 - Machine Learning Algorithms
 - Deep Learning
-- CNNs
-- RNNs
-- LSTMs
+- CNN
+- RNN
+- LSTM
 - Transformers
 - NLP
 - Computer Vision
 - Vector Databases
+- Prompt Engineering
 - RAG
 - AI Agents
 - MLOps
@@ -94,7 +98,8 @@
 class AbdullahBasyouni:
 
     def __init__(self):
-        self.role = "AI Engineer"
+
+        self.role = "Aspiring AI Engineer"
 
         self.languages = [
             "Python",
@@ -106,7 +111,7 @@ class AbdullahBasyouni:
             "JavaScript"
         ]
 
-        self.ai = [
+        self.ai_stack = [
             "Machine Learning",
             "Deep Learning",
             "Computer Vision",
@@ -117,27 +122,73 @@ class AbdullahBasyouni:
             "MLOps"
         ]
 
-        self.tools = [
+        self.libraries = [
             "TensorFlow",
             "Scikit-Learn",
             "NumPy",
             "Pandas",
             "OpenCV",
+            "Matplotlib"
+        ]
+
+        self.tools = [
             "Git",
-            "Linux",
-            "VS Code"
+            "GitHub",
+            "VS Code",
+            "Jupyter Notebook",
+            "Google Colab",
+            "Linux"
         ]
 
     def goal(self):
-        return "Build AI that makes an impact 🚀"
-```
+        return "Build impactful AI systems 🚀"
+````
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.kaggle.com/YOUR_KAGGLE">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Keep Learning, Keep Building, Keep Growing."
+
+</div>
+```
